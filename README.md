@@ -6,7 +6,7 @@
 
 ##### A simple Deep Learning to predict the probability of a customer leaving the bank. The dataset used is fictitious, but is based in reality.
 
-![dataset view](https://prnt.sc/svd73f "dataset view")
+![dataset view](https://github.com/GustavoSTZ/bank-exit-deep-learning/blob/master/data/dataset-view-example.png "dataset view")
 
 ### Setup
 
